@@ -1,5 +1,5 @@
 public class Order {
-    private int orderCount = 0;
+    private long orderCount = 0;
 
     public Order() {
 
